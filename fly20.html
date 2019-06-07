@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
  <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 <link href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" rel="stylesheet"/>
@@ -161,7 +163,7 @@ font-family: 'Ubuntu Condensed', sans-serif;
 <br>
 <br>
 <b></b>
-
+<center><div id="infobox" class="alert alert-info"><strong id="first"></strong><strong><p id="header"></p></strong><p id="description"></p></div></center>
 <div id="myModal" class="modal">
 
   <!-- Modal content -->
@@ -276,5 +278,95 @@ window.onclick = function(event) {
 
 </script>
 
+	<script type="text/javascript">
+  $(document).ready( function() {
+  var alert = "https://status.squidly.gq/api/incidents.php";
+    $.getJSON(alert, function(data) {
+      var titty;
+      var desc;
+      var state;
+      var servercall;
+      var title;
+      desc = (data.incidents[0].text);
+      state = (data.incidents[0].type);
+      title = (data.incidents[0].title);
+      nem = (data.incidents[0].username);
+
+
+     if ( state == 0 && nem == "fuely_status") {
+      $('#infobox').attr('class','alert alert-danger');
+      $('#header').html("&#9888; "+title);
+      $('#description').html(desc);
+       $('#infobox').attr('style','display: show;');
+        } 
+        else if (state == 1 && nem == "fuely_status") {
+          $('#infobox').attr('class','alert alert-warning');
+          $('#header').html("&#9888; "+title);
+          $('#description').html(desc);
+           $('#infobox').attr('style','display: show;');
+        }
+        else if ( state == 2 && nem == "fuely_status") {
+
+          $('#infobox').attr('class','alert alert-warning');
+          $('#header').html("&#9888; "+title);
+          $('#description').html(desc);
+           $('#infobox').attr('style','display: show;');
+        }
+        else {
+           $('#infobox').attr('style','display: none;');
+          $('#header').html("&#10004; "+title);
+        }
+
+            
+            
+    });
+  });
+    setInterval( function() {
+      var alert = "https://status.squidly.gq/api/incidents.php";
+    $.getJSON(alert, function(data) {
+      var titty;
+      var desc;
+      var state;
+      var servercall;
+      var title;
+      desc = (data.incidents[0].text);
+      state = (data.incidents[0].type);
+      title = (data.incidents[0].title);
+      nem = (data.incidents[0].username);
+
+
+     if ( state == 0 && nem == "fuely_status") {
+      $('#infobox').attr('class','alert alert-danger');
+      $('#header').html("&#9888; "+title);
+      $('#description').html(desc);
+       $('#infobox').attr('style','display: show;');
+        } 
+        else if (state == 1 && nem == "fuely_status") {
+          $('#infobox').attr('class','alert alert-warning');
+          $('#header').html("&#9888; "+title);
+          $('#description').html(desc);
+           $('#infobox').attr('style','display: show;');
+        }
+        else if ( state == 2 && nem == "fuely_status") {
+          $('#infobox').attr('class','alert alert-warning');
+          $('#header').html("&#9888; "+title);
+          $('#description').html(desc);
+           $('#infobox').attr('style','display: show;');
+        }
+        else {
+           $('#infobox').attr('class','alert alert-success');
+          $('#header').html("&#10004; "+title);
+           $('#description').html(desc);
+           $('#infobox').attr('style','display: none;');
+        }
+
+            
+            
+    });
+  }, 20000);
+
+
+</script>
+	
 </body>
 </html>
