@@ -13,7 +13,7 @@
 }
 	</style>
 	<head>
-		<title>DuckForceOne-Store</title>
+		<title>DuckForceOneStore</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -54,11 +54,11 @@
 <!-- One -->
 					<section id="one" class="wrapper style2">
 						<section>
-<div class="blacktext"  style="color: #000000;">
-	<div style="color: black;" id="infobox" class="alert alert-danger"><strong id="first"></strong><strong><p id="description" class="opacityPulse-css" style="float: right;"></p></strong><p ></p></div>
-	 	<div id="infobox2" class="alert alert-danger"><strong id="first2"></strong><strong><p id="description2" class="opacityPulse-css" style="float: right;"></p></strong></div>
-      			<div id="infobox3" class="alert alert-danger"><strong id="first3"></strong><strong><p id="description3" class="opacityPulse-css" style="float: right;"></p></strong></div>
-      				<div id="infobox4" class="alert alert-danger"><strong id="first4"></strong><strong><p id="description4" class="opacityPulse-css" style="float: right;"></p></strong></div>
+<div class=""  style="">
+	<div style="" id="infobox" class=""><strong id="first"></strong><strong><p id="description" class="opacityPulse-css" style="float: right;"></p></strong><p ></p></div>
+	 	<div id="infobox2" class=""><strong id="first2"></strong><strong><p id="description2" class="opacityPulse-css" style="float: right;"></p></strong></div>
+      			<div id="infobox3" class=""><strong id="first3"></strong><strong><p id="description3" class="opacityPulse-css" style="float: right;"></p></strong></div>
+      				<div id="infobox4" class=""><strong id="first4"></strong><strong><p id="description4" class="opacityPulse-css" style="float: right;"></p></strong></div>
 						</div>								
 							
 						</section>
@@ -118,88 +118,87 @@
 
         if ( data[0].status == 0 ) {
             $('#description').html("Major Outage");
-            $('#infobox').attr('class','alert alert-danger pulse');
+          
             $('#first').html("&#9888; "+data[0].name);
         } 
         else if (data[0].status == 1) {
             $('#description').html("Minor Outage");
-            $('#infobox').attr('class','alert alert-warning pulse');
+           
             $('#first').html("&#9888; "+data[0].name);
         }
         else if ( data[0].status == 2 ) {
             $('#description').html("Planned Maintenance");
-            $('#infobox').attr('class','alert alert-info pulse');
+            
             $('#first').html("&#9888; "+data[0].name);
         }
         else {
             $('#description').html("All Services Operational");
-            $('#infobox').attr('class','alert alert-success pulse');
             $('#first').html("&#10004; "+data[0].name);
         }
 
 
                   if ( data[1].status == 0 ) {
             $('#descriptio2').html("Major Outage");
-            $('#infobo2').attr('class','alert alert-danger pulse');
+
             $('#firs2').html("&#9888; "+data[1].name);
         } 
         else if (data[1].status == 1) {
             $('#description2').html("Minor Outage");
-            $('#infobox2').attr('class','alert alert-warning pulse');
+
             $('#first2').html("&#9888; "+data[1].name);
         }
         else if ( data[1].status == 2 ) {
             $('#description2').html("Planned Maintenance");
-            $('#infobox2').attr('class','alert alert-info pulse');
+
             $('#first2').html("&#9888; "+data[1].name);
         }
         else {
             $('#description2').html("All Services Operational");
-            $('#infobox2').attr('class','alert alert-success pulse');
+
             $('#first2').html("&#10004; "+data[1].name);
         }
 
 
         if ( data[2].status == 0 ) {
             $('#description3').html("Major Outage");
-            $('#infobox3').attr('class','alert alert-danger pulse');
+
             $('#first3').html("&#9888; "+data[2].name);
         } 
         else if (data[2].status == 1) {
             $('#description3').html("Minor Outage");
-            $('#infobox3').attr('class','alert alert-warning pulse');
+
             $('#first3').html("&#9888; "+data[2].name);
         }
         else if ( data[2].status == 2 ) {
             $('#description3').html("Planned Maintenance");
-            $('#infobox3').attr('class','alert alert-info pulse');
+
             $('#first3').html("&#9888; "+data[2].name);
         }
         else {
             $('#description3').html("All Services Operational");
-            $('#infobox3').attr('class','alert alert-success pulse');
+
             $('#first3').html("&#10004; "+data[2].name);
         }
         		
 
         if ( data[3].status == 0 ) {
             $('#description4').html("Major Outage");
-            $('#infobox4').attr('class','alert alert-danger pulse');
+
             $('#first4').html("&#9888; "+data[3].name);
         } 
         else if (data[3].status == 1) {
             $('#description4').html("Minor Outage");
-            $('#infobox4').attr('class','alert alert-warning pulse');
+
             $('#first4').html("&#9888; "+data[3].name);
         }
         else if ( data[3].status == 2 ) {
             $('#description4').html("Planned Maintenance");
-            $('#infobox4').attr('class','alert alert-info pulse');
+
             $('#first4').html("&#9888; "+data[3].name);
         }
         else {
             $('#description4').html("All Services Operational");
-            $('#infobox4').attr('class','alert alert-success pulse');
+           // $('#infobox4').attr('class','alert alert-success pulse');
             $('#first4').html("&#10004; "+data[3].name);
         }
 
