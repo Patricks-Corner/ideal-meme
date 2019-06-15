@@ -1,1009 +1,545 @@
-{
-   "@version": "1",
-   "title": "Wiedergabeliste",
-   "trackList": {
-      "track": [
-         {
-            "location": "http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8",
-            "title": "3sat",
-            "image": "file:///C:/Daten/Senderlogos/3sat_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "0"
-            }
-         },
-         {
-            "location": "http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8",
-            "title": "arte",
-            "image": "file:///C:/Daten/Senderlogos/arte_de_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "1"
-            }
-         },
-         {
-            "location": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8",
-            "title": "ARD-Alpha",
-            "image": "file:///C:/Daten/Senderlogos/ard_alpha_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "2"
-            }
-         },
-         {
-            "location": "http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8",
-            "title": "Das Erste",
-            "image": "file:///C:/Daten/Senderlogos/ard_das_erste.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "3"
-            }
-         },
-         {
-            "location": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8",
-            "title": "Deutsche Welle",
-            "image": "file:///C:/Daten/Senderlogos/deutsche_welle_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "4"
-            }
-         },
-         {
-            "location": "http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8",
-            "title": "KiKa HD",
-            "image": "file:///C:/Daten/Senderlogos/kika_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "5"
-            }
-         },
-         {
-            "location": "http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/master.m3u8",
-            "title": "ONE HD",
-            "image": "file:///C:/Daten/Senderlogos/ard_one_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "6"
-            }
-         },
-         {
-            "location": "http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8",
-            "title": "Phoenix",
-            "image": "file:///C:/Daten/Senderlogos/phoenix_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "7"
-            }
-         },
-         {
-            "location": "http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8",
-            "title": "ZDF HD",
-            "image": "file:///C:/Daten/Senderlogos/zdf_de_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "8"
-            }
-         },
-         {
-            "location": "http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8",
-            "title": "ZDF info HD",
-            "image": "file:///C:/Daten/Senderlogos/zdf_info_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "9"
-            }
-         },
-         {
-            "location": "http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8",
-            "title": "ZDF neo HD",
-            "image": "file:///C:/Daten/Senderlogos/zdf_neo_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "10"
-            }
-         },
-         {
-            "location": "http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8",
-            "title": "Euronews",
-            "image": "file:///C:/Daten/Senderlogos/euronews_fr.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "11"
-            }
-         },
-         {
-            "location": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8",
-            "title": "Tagesschau 24",
-            "image": "file:///C:/Daten/Senderlogos/tagesschau24.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "12"
-            }
-         },
-         {
-            "location": "http://bsn246u6-i.akamaihd.net/hls/live/237201/Live2N24CMS/index.m3u8",
-            "title": "N24",
-            "image": "file:///C:/Daten/Senderlogos/n24_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "13"
-            }
-         },
-         {
-            "location": "http://p.live.fra.n-tv.de/playlists/ntvlive.m3u8",
-            "title": "n-tv",
-            "image": "file:///C:/Daten/Senderlogos/ntv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "14"
-            }
-         },
-         {
-            "location": "http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8",
-            "title": "BR Nord HD",
-            "image": "file:///C:/Daten/Senderlogos/br_nord_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "15"
-            }
-         },
-         {
-            "location": "http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8",
-            "title": "BR Sued HD",
-            "image": "file:///C:/Daten/Senderlogos/br_sud_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "16"
-            }
-         },
-         {
-            "location": "http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8",
-            "title": "HR",
-            "image": "file:///C:/Daten/Senderlogos/hr_fernsehen_de_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "17"
-            }
-         },
-         {
-            "location": "http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8",
-            "title": "MDR Sachsen",
-            "image": "file:///C:/Daten/Senderlogos/mdr_fernsehen_sachsen_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "18"
-            }
-         },
-         {
-            "location": "http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8",
-            "title": "MDR Sachsen-Anhalt",
-            "image": "file:///C:/Daten/Senderlogos/mdr_fernsehen_sachsen_anhalt_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "19"
-            }
-         },
-         {
-            "location": "http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8",
-            "title": "MDR Thüringen",
-            "image": "file:///C:/Daten/Senderlogos/mdr_fernsehen_thuringen_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "20"
-            }
-         },
-         {
-            "location": "http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8",
-            "title": "NDR Mecklenburg-Vorpommern",
-            "image": "file:///C:/Daten/Senderlogos/ndr_fernsehen_mv_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "21"
-            }
-         },
-         {
-            "location": "http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8",
-            "title": "NDR Niedersachsen",
-            "image": "file:///C:/Daten/Senderlogos/ndr_fernsehen_nds_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "22"
-            }
-         },
-         {
-            "location": "http://rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8",
-            "title": "RBB Berlin",
-            "image": "file:///C:/Daten/Senderlogos/rbb_de_berlin.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "23"
-            }
-         },
-         {
-            "location": "http://rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/master.m3u8",
-            "title": "RBB Brandenburg",
-            "image": "file:///C:/Daten/Senderlogos/rbb_de_brandenburg.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "24"
-            }
-         },
-         {
-            "location": "http://livestream.sr-online.de/live.m3u8",
-            "title": "SR HD",
-            "image": "file:///C:/Daten/Senderlogos/sr_fernsehen_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "25"
-            }
-         },
-         {
-            "location": "http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8",
-            "title": "SWR HD Baden-Wuerttemberg",
-            "image": "file:///C:/Daten/Senderlogos/swr_de_fernsehen_bw.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "26"
-            }
-         },
-         {
-            "location": "http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8",
-            "title": "SWR HD Rheinland-Pfalz",
-            "image": "file:///C:/Daten/Senderlogos/swr_de_fernsehen_rp_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "27"
-            }
-         },
-         {
-            "location": "http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8",
-            "title": "WDR HD",
-            "image": "file:///C:/Daten/Senderlogos/wdr_koln_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "28"
-            }
-         },
-         {
-            "location": "http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8",
-            "title": "RIC",
-            "image": "file:///C:/Daten/Senderlogos/ric_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "29"
-            }
-         },
-         {
-            "location": "http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8",
-            "title": "SERVUS TV HD",
-            "image": "file:///C:/Daten/Senderlogos/servus_tv_de_hd.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "30"
-            }
-         },
-         {
-            "location": "http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/playlist.m3u8?bitrate=800",
-            "title": "ALEX Berlin",
-            "image": "file:///C:/Daten/Senderlogos/alex_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "31"
-            }
-         },
-         {
-            "location": "http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8",
-            "title": "Rhein-Neckar Fernsehen",
-            "image": "file:///C:/Daten/Senderlogos/rhein_neckar_fernsehen.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "32"
-            }
-         },
-         {
-            "location": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8",
-            "title": "TVA",
-            "image": "file:///C:/Daten/Senderlogos/tva_ostbayern_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "33"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/tvhalle_high/master.m3u8",
-            "title": "TV-Halle",
-            "image": "file:///C:/Daten/Senderlogos/tv_halle_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "34"
-            }
-         },
-         {
-            "location": "http://flash3.ipercast.net/deluxemusic.tv-live/smil:deluxe.smil/playlist.m3u8",
-            "title": "DELUXE MUSIC",
-            "image": "file:///C:/Daten/Senderlogos/deluxe_music_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "35"
-            }
-         },
-         {
-            "location": "http://livevideo.infomaniak.com/streaming/livecast/energytv/playlist.m3u8",
-            "title": "NRJ TV",
-            "image": "file:///C:/Daten/Senderlogos/NRJ-TV.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "36"
-            }
-         },
-         {
-            "location": "http://rtmp.infomaniak.ch/livecast/tvm3/master.m3u8",
-            "title": "TVM 3",
-            "image": "file:///C:/Daten/Senderlogos/TVM3.jpg",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "37"
-            }
-         },
-         {
-            "location": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5726-mbr.smil/chunklist_b2500000.m3u8",
-            "title": "Blizz",
-            "image": "file:///C:/Daten/Senderlogos/blizz_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "38"
-            }
-         },
-         {
-            "location": "http://live.bwfamily.tv/rtplive/iphone.sdp/playlist.m3u8",
-            "title": "bw.family tv",
-            "image": "file:///C:/Daten/Senderlogos/family_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "39"
-            }
-         },
-         {
-            "location": "http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8",
-            "title": "DAF",
-            "image": "file:///C:/Daten/Senderlogos/daf_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "40"
-            }
-         },
-         {
-            "location": "http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8",
-            "title": "Joiz TV",
-            "image": "file:///C:/Daten/Senderlogos/JOIZ_Logo.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "41"
-            }
-         },
-         {
-            "location": "http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8",
-            "title": "RTL II You HD",
-            "image": "file:///C:/Daten/Senderlogos/RTLIIyou.jpg",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "42"
-            }
-         },
-         {
-            "location": "http://live01.rtl.lu/channel1/smil:channel1/master.m3u8",
-            "title": "RTL Luxemburg",
-            "image": "file:///C:/Daten/Senderlogos/RTL-Luxemburg.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "43"
-            }
-         },
-         {
-            "location": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8",
-            "title": "Potsdam TV",
-            "image": "file:///C:/Daten/Senderlogos/potsdam_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "44"
-            }
-         },
-         {
-            "location": "http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream_hbb/playlist.m3u8",
-            "title": "TecTime",
-            "image": "file:///C:/Daten/Senderlogos/tec_time_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "45"
-            }
-         },
-         {
-            "location": "http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8",
-            "title": "Welt der Wunder",
-            "image": "file:///C:/Daten/Senderlogos/welt_der_wunder_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "46"
-            }
-         },
-         {
-            "location": "rtmp://badentv-stream2.siebnich.info/rtplive/vlc.sdp",
-            "title": "Baden TV",
-            "image": "file:///C:/Daten/Senderlogos/baden_tv.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "47"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8",
-            "title": "BLKonline TV Burgenlandkreis",
-            "image": "file:///C:/Daten/Senderlogos/blk_regional_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "48"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/elbe_high/master.m3u8",
-            "title": "ElbeKanal",
-            "image": "file:///C:/Daten/Senderlogos/elbe_kanal_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "49"
-            }
-         },
-         {
-            "location": "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w2002775230.m3u8",
-            "title": "Franken TV",
-            "image": "file:///C:/Daten/Senderlogos/franken_fernsehen.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "50"
-            }
-         },
-         {
-            "location": "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
-            "title": "noa4 Hamburg FHD",
-            "image": "file:///C:/Daten/Senderlogos/noa_4_de_hamburg.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "51"
-            }
-         },
-         {
-            "location": "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
-            "title": "noa4 Norderstedt FHD",
-            "image": "file:///C:/Daten/Senderlogos/noa_4_de_norderstedt.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "52"
-            }
-         },
-         {
-            "location": "http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8",
-            "title": "NRW TV",
-            "image": "file:///C:/Daten/Senderlogos/nrw_tv.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "53"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/ok-dessau_high/master.m3u8",
-            "title": "OK Dessau",
-            "image": "file:///C:/Daten/Senderlogos/ok_dessau_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "54"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/ok-magdeburg_high/master.m3u8",
-            "title": "OK Magdeburg",
-            "image": "file:///C:/Daten/Senderlogos/ok_magdeburg_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "55"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/ok-merseburg_high/master.m3u8",
-            "title": "OK Merseburg",
-            "image": "file:///C:/Daten/Senderlogos/ok_merseburg_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "56"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/ok-salzwedel_high/master.m3u8",
-            "title": "OK Salzwedel",
-            "image": "file:///C:/Daten/Senderlogos/ok_salzwedel_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "57"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/ok-stendal_high/master.m3u8",
-            "title": "OK Stendal",
-            "image": "file:///C:/Daten/Senderlogos/ok_stendal_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "58"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/ok-wernigerode_high/master.m3u8",
-            "title": "OK Wernigerode",
-            "image": "file:///C:/Daten/Senderlogos/ok_wernigerode_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "59"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/ok-wettin_high/master.m3u8",
-            "title": "OK Wettin",
-            "image": "file:///C:/Daten/Senderlogos/OK-Wettin.jpg",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "60"
-            }
-         },
-         {
-            "location": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8",
-            "title": "Potsdam TV",
-            "image": "file:///C:/Daten/Senderlogos/potsdam_tv_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "61"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/punktum_high/master.m3u8",
-            "title": "Punktum Südharz",
-            "image": "file:///C:/Daten/Senderlogos/punkt_um_fernsehen_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "62"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8",
-            "title": "RAN 1",
-            "image": "file:///C:/Daten/Senderlogos/ran_1_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "63"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/rbw_high/master.m3u8",
-            "title": "RBW",
-            "image": "file:///C:/Daten/Senderlogos/rbw_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "64"
-            }
-         },
-         {
-            "location": "http://62.113.210.250/medienasa-live/RFH_high/master.m3u8",
-            "title": "RFH",
-            "image": "file:///C:/Daten/Senderlogos/rfh_de.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "65"
-            }
-         },
-         {
-            "location": "http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken",
-            "title": "TV Oberfranken",
-            "image": "file:///C:/Daten/Senderlogos/tv_oberfranken.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "66"
-            }
-         },
-         {
-            "location": "http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8",
-            "title": "TV Würzburg",
-            "image": "file:///C:/Daten/Senderlogos/tv_touring_wuerzburg.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "67"
-            }
-         },
-         {
-            "location": "http://5.9.11.81/live/stream_720p/master.m3u8",
-            "title": "Austria 24 TV",
-            "image": "file:///C:/Daten/Senderlogos/austria_24_tv_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "68"
-            }
-         },
-         {
-            "location": "http://dorf.openplayout.org/hls/dorf_high/index.m3u8",
-            "title": "Dorf tv",
-            "image": "file:///C:/Daten/Senderlogos/dorf_tv_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "69"
-            }
-         },
-         {
-            "location": "http://80.237.191.228:1935/live/LaendleTV/chunklist_w195710326.m3u8",
-            "title": "Ländle TV",
-            "image": "file:///C:/Daten/Senderlogos/landle_tv_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "70"
-            }
-         },
-         {
-            "location": "mms://wmsstream22.v4.mytv.ris.at/live/stream_149",
-            "title": "Mühlviertel TV",
-            "image": "file:///C:/Daten/Senderlogos/muhlviertel_tv_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "71"
-            }
-         },
-         {
-            "location": "http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8",
-            "title": "OKTO",
-            "image": "file:///C:/Daten/Senderlogos/okto_tv_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "72"
-            }
-         },
-         {
-            "location": "rtmp://p3-6.mov.at:1935/live/weekstream",
-            "title": "P3 tv",
-            "image": "file:///C:/Daten/Senderlogos/P3-tv-logo.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "73"
-            }
-         },
-         {
-            "location": "http://www.reeins.tv:1935/live/re1/playlist.m3u8",
-            "title": "RE eins TV",
-            "image": "file:///C:/Daten/Senderlogos/RE-eins_Logo.jpg",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "74"
-            }
-         },
-         {
-            "location": "http://80.237.191.228:1935/live/_definst_/RTS2015/chunklist_w131552783.m3u8",
-            "title": "RTS TV Salzburg",
-            "image": "file:///C:/Daten/Senderlogos/rts_tv_salzburg_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "75"
-            }
-         },
-         {
-            "location": "http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8",
-            "title": "Tirol TV",
-            "image": "file:///C:/Daten/Senderlogos/tirol_tv_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "76"
-            }
-         },
-         {
-            "location": "rtmp://ms01.w24.at:1935/livepkgr/livestream2",
-            "title": "W 24",
-            "image": "file:///C:/Daten/Senderlogos/w24_at.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "77"
-            }
-         },
-         {
-            "location": "http://rtmp.infomaniak.ch/livecast/livesd2/chunklist_w798831857.m3u8",
-            "title": "Kanal 9 HD",
-            "image": "file:///C:/Daten/Senderlogos/canal_9_ch.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "78"
-            }
-         },
-         {
-            "location": "http://rtmp.infomaniak.ch/livecast/barntele/master.m3u8",
-            "title": "Tele Bärn",
-            "image": "file:///C:/Daten/Senderlogos/Tele-Bärn.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "79"
-            }
-         },
-         {
-            "location": "http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8",
-            "title": "Tele Basel",
-            "image": "file:///C:/Daten/Senderlogos/Tele-Basel.jpg",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "80"
-            }
-         },
-         {
-            "location": "http://rtmp.infomaniak.ch/livecast/tvo/chunklist_w1834948505.m3u8",
-            "title": "TVO",
-            "image": "file:///C:/Daten/Senderlogos/tvo-logo.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "81"
-            }
-         },
-         {
-            "location": "http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish3/kLive/smil:1_hoislpiz_all.smil/32/chunklist.m3u8",
-            "title": "Tele Züri HD",
-            "image": "file:///C:/Daten/Senderlogos/TeleZüri.png",
-            "extension": {
-               "@application": "http://www.videolan.org/vlc/playlist/0",
-               "id": "82"
-            }
-         }
-      ]
-   },
-   "extension": {
-      "@application": "http://www.videolan.org/vlc/playlist/0",
-      "item": [
-         {
-            "@tid": "0"
-         },
-         {
-            "@tid": "1"
-         },
-         {
-            "@tid": "2"
-         },
-         {
-            "@tid": "3"
-         },
-         {
-            "@tid": "4"
-         },
-         {
-            "@tid": "5"
-         },
-         {
-            "@tid": "6"
-         },
-         {
-            "@tid": "7"
-         },
-         {
-            "@tid": "8"
-         },
-         {
-            "@tid": "9"
-         },
-         {
-            "@tid": "10"
-         },
-         {
-            "@tid": "11"
-         },
-         {
-            "@tid": "12"
-         },
-         {
-            "@tid": "13"
-         },
-         {
-            "@tid": "14"
-         },
-         {
-            "@tid": "15"
-         },
-         {
-            "@tid": "16"
-         },
-         {
-            "@tid": "17"
-         },
-         {
-            "@tid": "18"
-         },
-         {
-            "@tid": "19"
-         },
-         {
-            "@tid": "20"
-         },
-         {
-            "@tid": "21"
-         },
-         {
-            "@tid": "22"
-         },
-         {
-            "@tid": "23"
-         },
-         {
-            "@tid": "24"
-         },
-         {
-            "@tid": "25"
-         },
-         {
-            "@tid": "26"
-         },
-         {
-            "@tid": "27"
-         },
-         {
-            "@tid": "28"
-         },
-         {
-            "@tid": "29"
-         },
-         {
-            "@tid": "30"
-         },
-         {
-            "@tid": "31"
-         },
-         {
-            "@tid": "32"
-         },
-         {
-            "@tid": "33"
-         },
-         {
-            "@tid": "34"
-         },
-         {
-            "@tid": "35"
-         },
-         {
-            "@tid": "36"
-         },
-         {
-            "@tid": "37"
-         },
-         {
-            "@tid": "38"
-         },
-         {
-            "@tid": "39"
-         },
-         {
-            "@tid": "40"
-         },
-         {
-            "@tid": "41"
-         },
-         {
-            "@tid": "42"
-         },
-         {
-            "@tid": "43"
-         },
-         {
-            "@tid": "44"
-         },
-         {
-            "@tid": "45"
-         },
-         {
-            "@tid": "46"
-         },
-         {
-            "@tid": "47"
-         },
-         {
-            "@tid": "48"
-         },
-         {
-            "@tid": "49"
-         },
-         {
-            "@tid": "50"
-         },
-         {
-            "@tid": "51"
-         },
-         {
-            "@tid": "52"
-         },
-         {
-            "@tid": "53"
-         },
-         {
-            "@tid": "54"
-         },
-         {
-            "@tid": "55"
-         },
-         {
-            "@tid": "56"
-         },
-         {
-            "@tid": "57"
-         },
-         {
-            "@tid": "58"
-         },
-         {
-            "@tid": "59"
-         },
-         {
-            "@tid": "60"
-         },
-         {
-            "@tid": "61"
-         },
-         {
-            "@tid": "62"
-         },
-         {
-            "@tid": "63"
-         },
-         {
-            "@tid": "64"
-         },
-         {
-            "@tid": "65"
-         },
-         {
-            "@tid": "66"
-         },
-         {
-            "@tid": "67"
-         },
-         {
-            "@tid": "68"
-         },
-         {
-            "@tid": "69"
-         },
-         {
-            "@tid": "70"
-         },
-         {
-            "@tid": "71"
-         },
-         {
-            "@tid": "72"
-         },
-         {
-            "@tid": "73"
-         },
-         {
-            "@tid": "74"
-         },
-         {
-            "@tid": "75"
-         },
-         {
-            "@tid": "76"
-         },
-         {
-            "@tid": "77"
-         },
-         {
-            "@tid": "78"
-         },
-         {
-            "@tid": "79"
-         },
-         {
-            "@tid": "80"
-         },
-         {
-            "@tid": "81"
-         },
-         {
-            "@tid": "82"
-         }
-      ]
-   }
-}
+[
+    {
+        "epg code": "Channels"
+    },
+    {
+        "epg code": "3sat.de",
+        "channel": "3sat",
+        "url": "http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8"
+    },
+    {
+        "epg code": "arte.de",
+        "channel": "arte",
+        "url": "http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8"
+    },
+    {
+        "epg code": "ARD-alpha.de",
+        "channel": "ARD-Alpha",
+        "url": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8"
+    },
+    {
+        "epg code": "ARD.de",
+        "channel": "Das Erste HD",
+        "url": "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Das Erste (mcdn)",
+        "url": "https://mcdn.daserste.de/daserste/de/master_3744.m3u8"
+    },
+    {
+        "epg code": "DeutscheWelle.de",
+        "channel": "Deutsche Welle",
+        "url": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8"
+    },
+    {
+        "epg code": "One.de",
+        "channel": "One HD",
+        "url": "http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8"
+    },
+    {
+        "epg code": "phoenix.de",
+        "channel": "Phoenix",
+        "url": "http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8"
+    },
+    {
+        "epg code": "ZDF.de",
+        "channel": "ZDF HD",
+        "url": "http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8"
+    },
+    {
+        "epg code": "ZDFinfo.de",
+        "channel": "ZDF info",
+        "url": "http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8"
+    },
+    {
+        "epg code": "ZDFneo.de",
+        "channel": "ZDF neo",
+        "url": "http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8"
+    },
+    {
+        "epg code": "tagesschau24.de",
+        "channel": "Tagesschau 24",
+        "url": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "BR HD Nord",
+        "url": "http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "BR HD Sued",
+        "url": "http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8"
+    },
+    {
+        "epg code": "HR.de",
+        "channel": "HR",
+        "url": "http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8"
+    },
+    {
+        "epg code": "Kika.de",
+        "channel": "KiKa HD",
+        "url": "https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8"
+    },
+    {
+        "epg code": "MDRSachsen.de",
+        "channel": "MDR Sachsen",
+        "url": "https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "MDR Sachsen-Anhalt",
+        "url": "http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8"
+    },
+    {
+        "epg code": "MDRThuringen.de",
+        "channel": "MDR Thüringen",
+        "url": "http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "NDR Hamburg",
+        "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "NDR Mecklenburg-Vorpommern",
+        "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_1992_av-p.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "NDR Niedersachsen",
+        "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "NDR Schleswig-Holstein",
+        "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_1992_av-p.m3u8"
+    },
+    {
+        "epg code": "rbbBerlin.de",
+        "channel": "RBB Berlin",
+        "url": "https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8"
+    },
+    {
+        "epg code": "rbbBrandenburg.de",
+        "channel": "RBB Brandenburg",
+        "url": "https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "SR HD",
+        "url": "http://livestream.sr-online.de/live.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "SWR HD Baden-Württemberg",
+        "url": "http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "SWR HD Rheinland-Pfalz",
+        "url": "http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "WDR HD (geoblocking)",
+        "url": "http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "WDR HD (weltweit)",
+        "url": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8"
+    },
+    {
+        "epg code": "n24.de",
+        "channel": "N24",
+        "url": "https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8"
+    },
+    {
+        "epg code": "ntv.de",
+        "channel": "n-tv",
+        "url": "https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "DAF",
+        "url": "http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "center.tv",
+        "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Chemnitz Fernsehen",
+        "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_2/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Dresden Fernsehen",
+        "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_2/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Leipzig Fernsehen",
+        "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_2/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Oberlausitz TV",
+        "url": "https://5852afe96c9bb.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "ikono TV",
+        "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5656_KypcLhrPFd3vNZw/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Kulturmd TV",
+        "url": "http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "MDF.1",
+        "url": "http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "OK Trier",
+        "url": "http://stream-cdn.ok54.de/hls/ok54.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Südtirol Digital Fernsehen",
+        "url": "http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Sylt 1",
+        "url": "http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Alex TV",
+        "url": "https://alex-stream.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TV Berlin",
+        "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8"
+    },
+    {
+        "epg code": "WeltDerWunder.de",
+        "channel": "Welt der Wunder",
+        "url": "http://live.vidoo.de/live/weltderwunder/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "SWR 3 (visual Radio)",
+        "url": "http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "a.tv",
+        "url": "https://586c13b083c0d.streamlock.net/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Allgäu TV",
+        "url": "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Blizz TV",
+        "url": "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8"
+    },
+    {
+        "epg code": "eoTV.de",
+        "channel": "eoTV",
+        "url": "http://cdn-europe.smartcast.de:1935/eotv/eotvsd/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "RiC / eoTV",
+        "url": "https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8"
+    },
+    {
+        "epg code": "DeLuxeMusic.de",
+        "channel": "Deluxe Music",
+        "url": "https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "DeutschesMusikFernsehen.de",
+        "channel": "Deutsches Musik Fernsehen",
+        "url": "https://tv.artcom-venture.de/dmf/tv_720.m3u8"
+    },
+    {
+        "epg code": "FolxTV.de",
+        "channel": "Folx TV",
+        "url": "http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "L TV (Baden Württemberg)",
+        "url": "http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8"
+    },
+    {
+        "epg code": "TideTV.de",
+        "channel": "Tide TV",
+        "url": "http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TV Mittelrhein",
+        "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "SkySportNewsHD.de",
+        "channel": "sky Sport News HD",
+        "url": "https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Oberpfalz TV",
+        "url": "https://586dce1287bfd.streamlock.net/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TV Baden",
+        "url": "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TV Mittelrhein",
+        "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "RFO TV",
+        "url": "http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "RNF TV",
+        "url": "http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Regio TV Schwaben",
+        "url": "http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8"
+    },
+    {
+        "epg code": "Nickelodeon.de",
+        "channel": "nickelodeon",
+        "url": "http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "MyTVplus",
+        "url": "rtmp://62.67.13.54:1935/MyTVplus/mtvp_livestream_2.stream"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Hannover 1",
+        "url": "http://livestream.htp.tv/livestream.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Euronews / H1",
+        "url": "http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8"
+    },
+    {
+        "epg code": "MTVGermany.de",
+        "channel": "MTV",
+        "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8"
+    },
+    {
+        "epg code": "XITE.nl",
+        "channel": "XITE",
+        "url": "http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "tv38",
+        "url": "http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Magenta 360° VR-Camera",
+        "url": "https://streaming-magenta-music-360.akamaized.net/hls/live/504583/mm360_vr1/index.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Magenta Music 360",
+        "url": "https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/index.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Metropolregion TV",
+        "url": "http://62.113.210.9:1935/metropolregiontv-live/livestream/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Nrwision",
+        "url": "https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "RE eins TV",
+        "url": "http://www.reeins.tv:1935/live/re1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Studio 47 Duisburg",
+        "url": "https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
+    },
+    {
+        "epg code": "tvo.de",
+        "channel": "TV Oberfranken",
+        "url": "https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
+    },
+    {
+        "epg code": "FrankenTV.de",
+        "channel": "Franken TV",
+        "url": "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TVM / WWTV",
+        "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Allround TV",
+        "url": "rtmp://62.113.210.9:1935/easycast5-live/livestream"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Teins",
+        "url": "https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Tirol TV",
+        "url": "http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Austria 24 TV (Austria)",
+        "url": "rtmp://streaming.austria24.tv:1935/live/mp4:stream_720p"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Dorf tv (Austria)",
+        "url": "https://stream.openplayout.org/hls/dorf_high/index.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Go TV (Austria)",
+        "url": "http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Kronehit TV (Austria)",
+        "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "M4 TV (Austria)",
+        "url": "http://streaming.austria24.tv/live/stream_720p/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "P3tv (Austria)",
+        "url": "http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "SERVUS TV HD (Austria)",
+        "url": "https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Wien 24 TV (Austria)",
+        "url": "https://ms03.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Chamber TV (Luxembourg)",
+        "url": "https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Eldoradio (Luxembourg)",
+        "url": "https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b4168000_slltz.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "RTL Luxemburg (Luxembourg)",
+        "url": "http://live01.rtl.lu/channel1/smil:channel1/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "RTL Luxemburg 2 (Luxembourg)",
+        "url": "http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TV MCJ (Luxembourg)",
+        "url": "https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Beatz TV (Swiss)",
+        "url": "https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Kanal 9 HD (Swiss)",
+        "url": "https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "QS24 TV (Swiss)",
+        "url": "http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Radio Pilatus (Swiss)",
+        "url": "https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Radio Südostschweiz (Swiss)",
+        "url": "https://swisstxt2-lh.akamaihd.net/i/grischa_1@144003/index_1100_av-p.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Radio Zürisee (Swiss)",
+        "url": "https://livevideo.infomaniak.com/streaming/livecast/radiozuriseelive/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Tele Bärn (Swiss)",
+        "url": "http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "Tele Züri HD (Swiss)",
+        "url": "https://cdnapisec.kaltura.com/p/1789881/sp/178988100/playManifest/entryId/0_josiatxf/format/applehttp/protocol/https/a.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TVM 3 (Swiss)",
+        "url": "http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8"
+    },
+    {
+        "epg code": "ext",
+        "channel": "TVO (Swiss)",
+        "url": "https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8"
+    }
+]
