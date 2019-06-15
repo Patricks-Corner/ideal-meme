@@ -1,544 +1,544 @@
 [
     {
-        "epg code": "Channels"
+        "epgcode": "Channels"
     },
     {
-        "epg code": "3sat.de",
+        "epgcode": "3sat.de",
         "channel": "3sat",
         "url": "http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8"
     },
     {
-        "epg code": "arte.de",
+        "epgcode": "arte.de",
         "channel": "arte",
         "url": "http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8"
     },
     {
-        "epg code": "ARD-alpha.de",
+        "epgcode": "ARD-alpha.de",
         "channel": "ARD-Alpha",
         "url": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8"
     },
     {
-        "epg code": "ARD.de",
+        "epgcode": "ARD.de",
         "channel": "Das Erste HD",
         "url": "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Das Erste (mcdn)",
         "url": "https://mcdn.daserste.de/daserste/de/master_3744.m3u8"
     },
     {
-        "epg code": "DeutscheWelle.de",
+        "epgcode": "DeutscheWelle.de",
         "channel": "Deutsche Welle",
         "url": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8"
     },
     {
-        "epg code": "One.de",
+        "epgcode": "One.de",
         "channel": "One HD",
         "url": "http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8"
     },
     {
-        "epg code": "phoenix.de",
+        "epgcode": "phoenix.de",
         "channel": "Phoenix",
         "url": "http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8"
     },
     {
-        "epg code": "ZDF.de",
+        "epgcode": "ZDF.de",
         "channel": "ZDF HD",
         "url": "http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8"
     },
     {
-        "epg code": "ZDFinfo.de",
+        "epgcode": "ZDFinfo.de",
         "channel": "ZDF info",
         "url": "http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8"
     },
     {
-        "epg code": "ZDFneo.de",
+        "epgcode": "ZDFneo.de",
         "channel": "ZDF neo",
         "url": "http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8"
     },
     {
-        "epg code": "tagesschau24.de",
+        "epgcode": "tagesschau24.de",
         "channel": "Tagesschau 24",
         "url": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "BR HD Nord",
         "url": "http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "BR HD Sued",
         "url": "http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8"
     },
     {
-        "epg code": "HR.de",
+        "epgcode": "HR.de",
         "channel": "HR",
         "url": "http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8"
     },
     {
-        "epg code": "Kika.de",
+        "epgcode": "Kika.de",
         "channel": "KiKa HD",
         "url": "https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8"
     },
     {
-        "epg code": "MDRSachsen.de",
+        "epgcode": "MDRSachsen.de",
         "channel": "MDR Sachsen",
         "url": "https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "MDR Sachsen-Anhalt",
         "url": "http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8"
     },
     {
-        "epg code": "MDRThuringen.de",
+        "epgcode": "MDRThuringen.de",
         "channel": "MDR Thüringen",
         "url": "http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "NDR Hamburg",
         "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "NDR Mecklenburg-Vorpommern",
         "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_1992_av-p.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "NDR Niedersachsen",
         "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "NDR Schleswig-Holstein",
         "url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_1992_av-p.m3u8"
     },
     {
-        "epg code": "rbbBerlin.de",
+        "epgcode": "rbbBerlin.de",
         "channel": "RBB Berlin",
         "url": "https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8"
     },
     {
-        "epg code": "rbbBrandenburg.de",
+        "epgcode": "rbbBrandenburg.de",
         "channel": "RBB Brandenburg",
         "url": "https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "SR HD",
         "url": "http://livestream.sr-online.de/live.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "SWR HD Baden-Württemberg",
         "url": "http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "SWR HD Rheinland-Pfalz",
         "url": "http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "WDR HD (geoblocking)",
         "url": "http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "WDR HD (weltweit)",
         "url": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8"
     },
     {
-        "epg code": "n24.de",
+        "epgcode": "n24.de",
         "channel": "N24",
         "url": "https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8"
     },
     {
-        "epg code": "ntv.de",
+        "epgcode": "ntv.de",
         "channel": "n-tv",
         "url": "https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "DAF",
         "url": "http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "center.tv",
         "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Chemnitz Fernsehen",
         "url": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_2/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Dresden Fernsehen",
         "url": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_2/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Leipzig Fernsehen",
         "url": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_2/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Oberlausitz TV",
         "url": "https://5852afe96c9bb.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "ikono TV",
         "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5656_KypcLhrPFd3vNZw/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Kulturmd TV",
         "url": "http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "MDF.1",
         "url": "http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "OK Trier",
         "url": "http://stream-cdn.ok54.de/hls/ok54.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Südtirol Digital Fernsehen",
         "url": "http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Sylt 1",
         "url": "http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Alex TV",
         "url": "https://alex-stream.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TV Berlin",
         "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8"
     },
     {
-        "epg code": "WeltDerWunder.de",
+        "epgcode": "WeltDerWunder.de",
         "channel": "Welt der Wunder",
         "url": "http://live.vidoo.de/live/weltderwunder/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "SWR 3 (visual Radio)",
         "url": "http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "a.tv",
         "url": "https://586c13b083c0d.streamlock.net/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Allgäu TV",
         "url": "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Blizz TV",
         "url": "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8"
     },
     {
-        "epg code": "eoTV.de",
+        "epgcode": "eoTV.de",
         "channel": "eoTV",
         "url": "http://cdn-europe.smartcast.de:1935/eotv/eotvsd/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "RiC / eoTV",
         "url": "https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8"
     },
     {
-        "epg code": "DeLuxeMusic.de",
+        "epgcode": "DeLuxeMusic.de",
         "channel": "Deluxe Music",
         "url": "https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8"
     },
     {
-        "epg code": "DeutschesMusikFernsehen.de",
+        "epgcode": "DeutschesMusikFernsehen.de",
         "channel": "Deutsches Musik Fernsehen",
         "url": "https://tv.artcom-venture.de/dmf/tv_720.m3u8"
     },
     {
-        "epg code": "FolxTV.de",
+        "epgcode": "FolxTV.de",
         "channel": "Folx TV",
         "url": "http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "L TV (Baden Württemberg)",
         "url": "http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8"
     },
     {
-        "epg code": "TideTV.de",
+        "epgcode": "TideTV.de",
         "channel": "Tide TV",
         "url": "http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TV Mittelrhein",
         "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8"
     },
     {
-        "epg code": "SkySportNewsHD.de",
+        "epgcode": "SkySportNewsHD.de",
         "channel": "sky Sport News HD",
         "url": "https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Oberpfalz TV",
         "url": "https://586dce1287bfd.streamlock.net/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TV Baden",
         "url": "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TV Mittelrhein",
         "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "RFO TV",
         "url": "http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "RNF TV",
         "url": "http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Regio TV Schwaben",
         "url": "http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8"
     },
     {
-        "epg code": "Nickelodeon.de",
+        "epgcode": "Nickelodeon.de",
         "channel": "nickelodeon",
         "url": "http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "MyTVplus",
         "url": "rtmp://62.67.13.54:1935/MyTVplus/mtvp_livestream_2.stream"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Hannover 1",
         "url": "http://livestream.htp.tv/livestream.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Euronews / H1",
         "url": "http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8"
     },
     {
-        "epg code": "MTVGermany.de",
+        "epgcode": "MTVGermany.de",
         "channel": "MTV",
         "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8"
     },
     {
-        "epg code": "XITE.nl",
+        "epgcode": "XITE.nl",
         "channel": "XITE",
         "url": "http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "tv38",
         "url": "http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Magenta 360° VR-Camera",
         "url": "https://streaming-magenta-music-360.akamaized.net/hls/live/504583/mm360_vr1/index.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Magenta Music 360",
         "url": "https://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/index.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Metropolregion TV",
         "url": "http://62.113.210.9:1935/metropolregiontv-live/livestream/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Nrwision",
         "url": "https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "RE eins TV",
         "url": "http://www.reeins.tv:1935/live/re1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Studio 47 Duisburg",
         "url": "https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
     },
     {
-        "epg code": "tvo.de",
+        "epgcode": "tvo.de",
         "channel": "TV Oberfranken",
         "url": "https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
     },
     {
-        "epg code": "FrankenTV.de",
+        "epgcode": "FrankenTV.de",
         "channel": "Franken TV",
         "url": "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TVM / WWTV",
         "url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Allround TV",
         "url": "rtmp://62.113.210.9:1935/easycast5-live/livestream"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Teins",
         "url": "https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Tirol TV",
         "url": "http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Austria 24 TV (Austria)",
         "url": "rtmp://streaming.austria24.tv:1935/live/mp4:stream_720p"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Dorf tv (Austria)",
         "url": "https://stream.openplayout.org/hls/dorf_high/index.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Go TV (Austria)",
         "url": "http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Kronehit TV (Austria)",
         "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "M4 TV (Austria)",
         "url": "http://streaming.austria24.tv/live/stream_720p/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "P3tv (Austria)",
         "url": "http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "SERVUS TV HD (Austria)",
         "url": "https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Wien 24 TV (Austria)",
         "url": "https://ms03.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Chamber TV (Luxembourg)",
         "url": "https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Eldoradio (Luxembourg)",
         "url": "https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b4168000_slltz.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "RTL Luxemburg (Luxembourg)",
         "url": "http://live01.rtl.lu/channel1/smil:channel1/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "RTL Luxemburg 2 (Luxembourg)",
         "url": "http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TV MCJ (Luxembourg)",
         "url": "https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Beatz TV (Swiss)",
         "url": "https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Kanal 9 HD (Swiss)",
         "url": "https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "QS24 TV (Swiss)",
         "url": "http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Radio Pilatus (Swiss)",
         "url": "https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Radio Südostschweiz (Swiss)",
         "url": "https://swisstxt2-lh.akamaihd.net/i/grischa_1@144003/index_1100_av-p.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Radio Zürisee (Swiss)",
         "url": "https://livevideo.infomaniak.com/streaming/livecast/radiozuriseelive/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Tele Bärn (Swiss)",
         "url": "http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "Tele Züri HD (Swiss)",
         "url": "https://cdnapisec.kaltura.com/p/1789881/sp/178988100/playManifest/entryId/0_josiatxf/format/applehttp/protocol/https/a.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TVM 3 (Swiss)",
         "url": "http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8"
     },
     {
-        "epg code": "ext",
+        "epgcode": "ext",
         "channel": "TVO (Swiss)",
         "url": "https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8"
     }
