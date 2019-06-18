@@ -5,17 +5,17 @@
     {
         "epgcode": "3sat.de",
         "channel": "3sat",
-        "url": "http:\/\/zdf0910-lh.akamaihd.net\/i\/dach10_v1@392872\/master.m3u8"
+        "url": "https:\/\/zdf0910-lh.akamaihd.net\/i\/dach10_v1@392872\/master.m3u8"
     },
     {
         "epgcode": "arte.de",
         "channel": "arte",
-        "url": "http:\/\/artelive-lh.akamaihd.net\/i\/artelive_de@393591\/master.m3u8"
+        "url": "https:\/\/artelive-lh.akamaihd.net\/i\/artelive_de@393591\/master.m3u8"
     },
     {
         "epgcode": "ARD-alpha.de",
         "channel": "ARD-Alpha",
-        "url": "http:\/\/livestreams.br.de\/i\/bralpha_germany@119899\/master.m3u8"
+        "url": "https:\/\/livestreams.br.de\/i\/bralpha_germany@119899\/master.m3u8"
     },
     {
         "epgcode": "ARD.de",
@@ -30,52 +30,52 @@
     {
         "epgcode": "DeutscheWelle.de",
         "channel": "Deutsche Welle",
-        "url": "http:\/\/dwstream72-lh.akamaihd.net\/i\/dwstream72_live@123556\/master.m3u8"
+        "url": "https:\/\/dwstream72-lh.akamaihd.net\/i\/dwstream72_live@123556\/master.m3u8"
     },
     {
         "epgcode": "One.de",
         "channel": "One HD",
-        "url": "http:\/\/onelivestream-lh.akamaihd.net\/i\/one_livestream@568814\/master.m3u8"
+        "url": "https:\/\/onelivestream-lh.akamaihd.net\/i\/one_livestream@568814\/master.m3u8"
     },
     {
         "epgcode": "phoenix.de",
         "channel": "Phoenix",
-        "url": "http:\/\/zdf0910-lh.akamaihd.net\/i\/de09_v1@392871\/master.m3u8"
+        "url": "https:\/\/zdf0910-lh.akamaihd.net\/i\/de09_v1@392871\/master.m3u8"
     },
     {
         "epgcode": "ZDF.de",
         "channel": "ZDF HD",
-        "url": "http:\/\/zdf1314-lh.akamaihd.net\/i\/de14_v1@392878\/master.m3u8"
+        "url": "https:\/\/zdf1314-lh.akamaihd.net\/i\/de14_v1@392878\/master.m3u8"
     },
     {
         "epgcode": "ZDFinfo.de",
         "channel": "ZDF info",
-        "url": "http:\/\/zdf1112-lh.akamaihd.net\/i\/de12_v1@392882\/master.m3u8"
+        "url": "https:\/\/zdf1112-lh.akamaihd.net\/i\/de12_v1@392882\/master.m3u8"
     },
     {
         "epgcode": "ZDFneo.de",
         "channel": "ZDF neo",
-        "url": "http:\/\/zdf1314-lh.akamaihd.net\/i\/de13_v1@392877\/master.m3u8"
+        "url": "https:\/\/zdf1314-lh.akamaihd.net\/i\/de13_v1@392877\/master.m3u8"
     },
     {
         "epgcode": "tagesschau24.de",
         "channel": "Tagesschau 24",
-        "url": "http:\/\/tagesschau-lh.akamaihd.net\/i\/tagesschau_1@119231\/master.m3u8"
+        "url": "https:\/\/tagesschau-lh.akamaihd.net\/i\/tagesschau_1@119231\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "BR HD Nord",
-        "url": "http:\/\/livestreams.br.de\/i\/bfsnord_germany@119898\/master.m3u8"
+        "url": "https:\/\/livestreams.br.de\/i\/bfsnord_germany@119898\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "BR HD Sued",
-        "url": "http:\/\/livestreams.br.de\/i\/bfssued_germany@119890\/master.m3u8"
+        "url": "https:\/\/livestreams.br.de\/i\/bfssued_germany@119890\/master.m3u8"
     },
     {
         "epgcode": "HR.de",
         "channel": "HR",
-        "url": "http:\/\/live1_hr-lh.akamaihd.net\/i\/hr_fernsehen@75910\/master.m3u8"
+        "url": "https:\/\/live1_hr-lh.akamaihd.net\/i\/hr_fernsehen@75910\/master.m3u8"
     },
     {
         "epgcode": "Kika.de",
@@ -90,12 +90,12 @@
     {
         "epgcode": "ext",
         "channel": "MDR Sachsen-Anhalt",
-        "url": "http:\/\/mdr_sa_hls-lh.akamaihd.net\/i\/livetvmdrsachsenanhalt_de@106901\/master.m3u8"
+        "url": "https:\/\/mdr_sa_hls-lh.akamaihd.net\/i\/livetvmdrsachsenanhalt_de@106901\/master.m3u8"
     },
     {
         "epgcode": "MDRThuringen.de",
         "channel": "MDR Thüringen",
-        "url": "http:\/\/mdr_th_hls-lh.akamaihd.net\/i\/livetvmdrthueringen_de@106903\/master.m3u8"
+        "url": "https:\/\/mdr_th_hls-lh.akamaihd.net\/i\/livetvmdrthueringen_de@106903\/master.m3u8"
     },
     {
         "epgcode": "ext",
@@ -130,27 +130,27 @@
     {
         "epgcode": "ext",
         "channel": "SR HD",
-        "url": "http:\/\/livestream.sr-online.de\/live.m3u8"
+        "url": "https:\/\/livestream.sr-online.de\/live.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "SWR HD Baden-Württemberg",
-        "url": "http:\/\/swrbw-lh.akamaihd.net\/i\/swrbw_live@196738\/master.m3u8"
+        "url": "https:\/\/swrbw-lh.akamaihd.net\/i\/swrbw_live@196738\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "SWR HD Rheinland-Pfalz",
-        "url": "http:\/\/swrrp-lh.akamaihd.net\/i\/swrrp_live@196739\/master.m3u8"
+        "url": "https:\/\/swrrp-lh.akamaihd.net\/i\/swrrp_live@196739\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "WDR HD (geoblocking)",
-        "url": "http:\/\/wdrfsgeo-lh.akamaihd.net\/i\/wdrfs_geogeblockt@530016\/master.m3u8"
+        "url": "https:\/\/wdrfsgeo-lh.akamaihd.net\/i\/wdrfs_geogeblockt@530016\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "WDR HD (weltweit)",
-        "url": "http:\/\/wdr_fs-lh.akamaihd.net\/i\/wdrfs_weltweit@112033\/master.m3u8"
+        "url": "https:\/\/wdr_fs-lh.akamaihd.net\/i\/wdrfs_weltweit@112033\/master.m3u8"
     },
     {
         "epgcode": "n24.de",
@@ -165,12 +165,12 @@
     {
         "epgcode": "ext",
         "channel": "DAF",
-        "url": "http:\/\/edge-h.daf.tmt.de\/ios-live\/daf-ios-live-livetv.stream\/playlist.m3u8"
+        "url": "https:\/\/edge-h.daf.tmt.de\/ios-live\/daf-ios-live-livetv.stream\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "center.tv",
-        "url": "https:\/\/sdn-global-live-http-cache.3qsdn.com\/live\/_definst_\/smil:3045-mbr.smil\/playlist.m3u8"
+        "url": "https:\/\/sdn-global-live-https-cache.3qsdn.com\/live\/_definst_\/smil:3045-mbr.smil\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -195,32 +195,32 @@
     {
         "epgcode": "ext",
         "channel": "ikono TV",
-        "url": "https:\/\/sdn-global-live-http-cache.3qsdn.com\/live\/_definst_\/mp4:5656_KypcLhrPFd3vNZw\/playlist.m3u8"
+        "url": "https:\/\/sdn-global-live-https-cache.3qsdn.com\/live\/_definst_\/mp4:5656_KypcLhrPFd3vNZw\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "Kulturmd TV",
-        "url": "http:\/\/62.113.210.250\/medienasa-live\/_definst_\/mp4:kulturmd_high\/playlist.m3u8"
+        "url": "https:\/\/62.113.210.250\/medienasa-live\/_definst_\/mp4:kulturmd_high\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "MDF.1",
-        "url": "http:\/\/62.113.210.250\/medienasa-live\/mdf1_high\/playlist.m3u8"
+        "url": "https:\/\/62.113.210.250\/medienasa-live\/mdf1_high\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "OK Trier",
-        "url": "http:\/\/stream-cdn.ok54.de\/hls\/ok54.m3u8"
+        "url": "https:\/\/stream-cdn.ok54.de\/hls\/ok54.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "Südtirol Digital Fernsehen",
-        "url": "http:\/\/livestream.goinfo.it\/SDFLive\/sdfrosnew1\/playlist.m3u8"
+        "url": "https:\/\/livestream.goinfo.it\/SDFLive\/sdfrosnew1\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "Sylt 1",
-        "url": "http:\/\/62.67.13.54:1935\/sylt1\/sylt1_high.stream\/chunklist.m3u8"
+        "url": "https:\/\/62.67.13.54:1935\/sylt1\/sylt1_high.stream\/chunklist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -230,17 +230,17 @@
     {
         "epgcode": "ext",
         "channel": "TV Berlin",
-        "url": "https:\/\/sdn-global-live-http-cache.3qsdn.com\/live\/_definst_\/amlst:7649-sbr\/playlist.m3u8"
+        "url": "https:\/\/sdn-global-live-https-cache.3qsdn.com\/live\/_definst_\/amlst:7649-sbr\/playlist.m3u8"
     },
     {
         "epgcode": "WeltDerWunder.de",
         "channel": "Welt der Wunder",
-        "url": "http:\/\/live.vidoo.de\/live\/weltderwunder\/master.m3u8"
+        "url": "https:\/\/live.vidoo.de\/live\/weltderwunder\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "SWR 3 (visual Radio)",
-        "url": "http:\/\/swr3visual-lh.akamaihd.net\/i\/swr3visual_live@6410\/index_3584_av-p.m3u8"
+        "url": "https:\/\/swr3visual-lh.akamaihd.net\/i\/swr3visual_live@6410\/index_3584_av-p.m3u8"
     },
     {
         "epgcode": "ext",
@@ -250,17 +250,17 @@
     {
         "epgcode": "ext",
         "channel": "Allgäu TV",
-        "url": "http:\/\/tvallgaeu.iptv-playoutcenter.de:1935\/tvallgaeu\/tvallgaeu.stream_2\/playlist.m3u8"
+        "url": "https:\/\/tvallgaeu.iptv-playoutcenter.de:1935\/tvallgaeu\/tvallgaeu.stream_2\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "Blizz TV",
-        "url": "http:\/\/familytvblizz-lh.akamaihd.net\/i\/familytv_1@458351\/master.m3u8"
+        "url": "https:\/\/familytvblizz-lh.akamaihd.net\/i\/familytv_1@458351\/master.m3u8"
     },
     {
         "epgcode": "eoTV.de",
         "channel": "eoTV",
-        "url": "http:\/\/cdn-europe.smartcast.de:1935\/eotv\/eotvsd\/playlist.m3u8"
+        "url": "https:\/\/cdn-europe.smartcast.de:1935\/eotv\/eotvsd\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -280,22 +280,22 @@
     {
         "epgcode": "FolxTV.de",
         "channel": "Folx TV",
-        "url": "http:\/\/46.101.244.86:8081\/folx-abr\/live-abr\/fle\/fle1\/playlist.m3u8"
+        "url": "https:\/\/46.101.244.86:8081\/folx-abr\/live-abr\/fle\/fle1\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "L TV (Baden Württemberg)",
-        "url": "http:\/\/62.113.221.4\/tv2000plus-live\/_definst_\/mp4:livestream3.stream\/playlist.m3u8"
+        "url": "https:\/\/62.113.221.4\/tv2000plus-live\/_definst_\/mp4:livestream3.stream\/playlist.m3u8"
     },
     {
         "epgcode": "TideTV.de",
         "channel": "Tide TV",
-        "url": "http:\/\/62.113.210.8\/tide-rtplive\/mp4:liveplayout.stream\/playlist.m3u8"
+        "url": "https:\/\/62.113.210.8\/tide-rtplive\/mp4:liveplayout.stream\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "TV Mittelrhein",
-        "url": "https:\/\/sdn-global-live-http-cache.3qsdn.com\/live\/_definst_\/smil:5714-mbr.smil\/playlist.m3u8"
+        "url": "https:\/\/sdn-global-live-https-cache.3qsdn.com\/live\/_definst_\/smil:5714-mbr.smil\/playlist.m3u8"
     },
     {
         "epgcode": "SkySportNewsHD.de",
@@ -315,27 +315,27 @@
     {
         "epgcode": "ext",
         "channel": "TV Mittelrhein",
-        "url": "https:\/\/sdn-global-live-http-cache.3qsdn.com\/live\/_definst_\/smil:5714-mbr.smil\/playlist.m3u8"
+        "url": "https:\/\/sdn-global-live-https-cache.3qsdn.com\/live\/_definst_\/smil:5714-mbr.smil\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "RFO TV",
-        "url": "http:\/\/rfo.iptv-playoutcenter.de:1935\/rfo\/rfo.stream_2\/playlist.m3u8"
+        "url": "https:\/\/rfo.iptv-playoutcenter.de:1935\/rfo\/rfo.stream_2\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "RNF TV",
-        "url": "http:\/\/rnf.iptv-playoutcenter.de:1935\/rnf\/rnf.stream_1\/playlist.m3u8"
+        "url": "https:\/\/rnf.iptv-playoutcenter.de:1935\/rnf\/rnf.stream_1\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "Regio TV Schwaben",
-        "url": "http:\/\/regiotv.iptv-playoutcenter.de:1935\/regiotv\/regiotv.stream_1\/playlist.m3u8"
+        "url": "https:\/\/regiotv.iptv-playoutcenter.de:1935\/regiotv\/regiotv.stream_1\/playlist.m3u8"
     },
     {
         "epgcode": "Nickelodeon.de",
         "channel": "nickelodeon",
-        "url": "http:\/\/unilivemtveu-lh.akamaihd.net\/i\/nickde_1@448749\/master.m3u8"
+        "url": "https:\/\/unilivemtveu-lh.akamaihd.net\/i\/nickde_1@448749\/master.m3u8"
     },
     {
         "epgcode": "ext",
@@ -345,27 +345,27 @@
     {
         "epgcode": "ext",
         "channel": "Hannover 1",
-        "url": "http:\/\/livestream.htp.tv\/livestream.m3u8"
+        "url": "https:\/\/livestream.htp.tv\/livestream.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "Euronews \/ H1",
-        "url": "http:\/\/livestream.htp.tv\/hls-live\/livepkgr\/_definst_\/H1\/H1_HQ.m3u8"
+        "url": "https:\/\/livestream.htp.tv\/hls-live\/livepkgr\/_definst_\/H1\/H1_HQ.m3u8"
     },
     {
         "epgcode": "MTVGermany.de",
         "channel": "MTV",
-        "url": "http:\/\/unilivemtveu-lh.akamaihd.net\/i\/mtvde_1@134922\/master.m3u8"
+        "url": "https:\/\/unilivemtveu-lh.akamaihd.net\/i\/mtvde_1@134922\/master.m3u8"
     },
     {
         "epgcode": "XITE.nl",
         "channel": "XITE",
-        "url": "http:\/\/highvolume03.streampartner.nl\/vleugels_hd6\/livestream\/playlist.m3u8"
+        "url": "https:\/\/highvolume03.streampartner.nl\/vleugels_hd6\/livestream\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "tv38",
-        "url": "http:\/\/62.113.221.3\/tv38-live\/_definst_\/mp4:livestream\/playlist.m3u8"
+        "url": "https:\/\/62.113.221.3\/tv38-live\/_definst_\/mp4:livestream\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -380,7 +380,7 @@
     {
         "epgcode": "ext",
         "channel": "Metropolregion TV",
-        "url": "http:\/\/62.113.210.9:1935\/metropolregiontv-live\/livestream\/playlist.m3u8"
+        "url": "https:\/\/62.113.210.9:1935\/metropolregiontv-live\/livestream\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -390,7 +390,7 @@
     {
         "epgcode": "ext",
         "channel": "RE eins TV",
-        "url": "http:\/\/www.reeins.tv:1935\/live\/re1\/playlist.m3u8"
+        "url": "https:\/\/www.reeins.tv:1935\/live\/re1\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -405,12 +405,12 @@
     {
         "epgcode": "FrankenTV.de",
         "channel": "Franken TV",
-        "url": "http:\/\/frankentv.iptv-playoutcenter.de:1935\/frankentv\/frankentv.stream_1\/playlist.m3u8"
+        "url": "https:\/\/frankentv.iptv-playoutcenter.de:1935\/frankentv\/frankentv.stream_1\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "TVM \/ WWTV",
-        "url": "https:\/\/sdn-global-live-http-cache.3qsdn.com\/live\/_definst_\/smil:5715-mbr.smil\/playlist.m3u8"
+        "url": "https:\/\/sdn-global-live-https-cache.3qsdn.com\/live\/_definst_\/smil:5715-mbr.smil\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -425,7 +425,7 @@
     {
         "epgcode": "ext",
         "channel": "Tirol TV",
-        "url": "http:\/\/lb.hd-livestream.de:1935\/live\/TirolTV\/playlist.m3u8"
+        "url": "https:\/\/lb.hd-livestream.de:1935\/live\/TirolTV\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -440,7 +440,7 @@
     {
         "epgcode": "ext",
         "channel": "Go TV (Austria)",
-        "url": "http:\/\/nstream17.gotv.at:1936\/live\/gotvlive_576p\/playlist.m3u8"
+        "url": "https:\/\/nstream17.gotv.at:1936\/live\/gotvlive_576p\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -450,12 +450,12 @@
     {
         "epgcode": "ext",
         "channel": "M4 TV (Austria)",
-        "url": "http:\/\/streaming.austria24.tv\/live\/stream_720p\/playlist.m3u8"
+        "url": "https:\/\/streaming.austria24.tv\/live\/stream_720p\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "P3tv (Austria)",
-        "url": "http:\/\/p3-6.mov.at:1935\/live\/weekstream\/playlist.m3u8"
+        "url": "https:\/\/p3-6.mov.at:1935\/live\/weekstream\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -480,12 +480,12 @@
     {
         "epgcode": "ext",
         "channel": "RTL Luxemburg (Luxembourg)",
-        "url": "http:\/\/live01.rtl.lu\/channel1\/smil:channel1\/master.m3u8"
+        "url": "https:\/\/live01.rtl.lu\/channel1\/smil:channel1\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "RTL Luxemburg 2 (Luxembourg)",
-        "url": "http:\/\/live01.rtl.lu\/channel2\/smil:channel2\/playlist.m3u8"
+        "url": "https:\/\/live01.rtl.lu\/channel2\/smil:channel2\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -505,7 +505,7 @@
     {
         "epgcode": "ext",
         "channel": "QS24 TV (Swiss)",
-        "url": "http:\/\/62.113.221.4\/tv2000plus-live\/_definst_\/mp4:quantisana\/playlist.m3u8"
+        "url": "https:\/\/62.113.221.4\/tv2000plus-live\/_definst_\/mp4:quantisana\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
@@ -525,17 +525,17 @@
     {
         "epgcode": "ext",
         "channel": "Tele Bärn (Swiss)",
-        "url": "http:\/\/klive-a.akamaihd.net\/dc-1\/live\/hls\/p\/1719221\/e\/1_0mc3z57p\/sd\/10000\/t\/XTGwenpKUhx_fbVnsiu9MQ\/master.m3u8"
+        "url": "https:\/\/klive-a.akamaihd.net\/dc-1\/live\/hls\/p\/1719221\/e\/1_0mc3z57p\/sd\/10000\/t\/XTGwenpKUhx_fbVnsiu9MQ\/master.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "Tele Züri HD (Swiss)",
-        "url": "https:\/\/cdnapisec.kaltura.com\/p\/1789881\/sp\/178988100\/playManifest\/entryId\/0_josiatxf\/format\/applehttp\/protocol\/https\/a.m3u8"
+        "url": "https:\/\/cdnapisec.kaltura.com\/p\/1789881\/sp\/178988100\/playManifest\/entryId\/0_josiatxf\/format\/applehttps\/protocol\/https\/a.m3u8"
     },
     {
         "epgcode": "ext",
         "channel": "TVM 3 (Swiss)",
-        "url": "http:\/\/livevideo.infomaniak.com\/streaming\/livecast\/tvm3\/playlist.m3u8"
+        "url": "https:\/\/livevideo.infomaniak.com\/streaming\/livecast\/tvm3\/playlist.m3u8"
     },
     {
         "epgcode": "ext",
